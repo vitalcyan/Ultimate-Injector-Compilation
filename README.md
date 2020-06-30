@@ -18,7 +18,7 @@ And Also Contains a Injector Pack [InjectorPack_] which contains :
   **NOTE :** Windows Might Detect the Injectors As Virus or Trojen, But they are False Positives. None Of my Repos contain a Virus or a Malware.
   
 ## How To Use ?
-Inject DLL into any 32-bit process {My Personal Favourite is Win32DiskImager}
+Inject DLL into any 32-bit or 64-bit process 
 ## My Socials
 **Discord** : Candy#9950 <br>
 **GitHub** : https://github.com/5R33CH4/ <br>
