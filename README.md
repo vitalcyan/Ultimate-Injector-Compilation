@@ -8,7 +8,26 @@ This Compilation Contains 4 Different Injectors :
   - Xenos
   - Winject
   - Extreme Injector v3.7.2
-  - GameOwner v0.3 <br>
+  - GameOwner v0.3 
+  - AtomBoming
+  - Basic Injection
+  - BlackBone
+  - Byte Injector
+  - Inject0r
+  - InjectProc
+  - Manual Map
+  - Py Injector
+  - ncLoader
+  - Syringe
+  - InjectAllThings
+  - ImprovedReflectiveDLLInjection
+  - and much more ...
+
+
+
+
+
+<br>
   
 And Also Contains a Injector Pack [InjectorPack_] which contains :
   - Winject (Custom Edition)
